@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitar Pashev</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on [Linkedin-clone project](https://github.com/dimipash/Linkedin-clone-ReactJS)
-
 - 👨‍💻 All of my projects are available at [https://dimi-pash-portfolio.netlify.app/](https://dimi-pash-portfolio.netlify.app/)
 
 - 📫 How to reach me **dim.pashev@gmail.com**
