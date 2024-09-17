@@ -1,16 +1,45 @@
-<h1 align="center">Hi 👋, I'm Dimitar Pashev</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+# 👋 Dimitar Pashev
 
-- 👨‍💻 All of my projects are available at [https://dimi-pash-portfolio.netlify.app/](https://dimi-pash-portfolio.netlify.app/)
+## 🚀 Python Developer | Full-Stack Enthusiast | LLMs Enthusiast
 
-- 📫 How to reach me **dim.pashev@gmail.com**
+Hello! I'm Dimitar, a dedicated developer from Bulgaria with a strong focus on Python and web technologies. I'm passionate about creating efficient, scalable, and user-friendly applications that solve real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dimitar-pashev-994174274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar-pashev-994174274" height="30" width="40" /></a>
-<a href="https://fb.com/pashinator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pashinator" height="30" width="40" /></a>
-<a href="https://instagram.com/thepashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thepashi" height="30" width="40" /></a>
-</p>
+### 🔧 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Languages:** Python (Advanced), JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** Django, React, Node.js, Tailwind CSS
+- **Databases:** PostgreSQL, SQLite, Firebase
+- **DevOps & Tools:** Docker, Git, Linux, Postman
+- **Cloud & Deployment:** Firebase, Streamlit
+
+### 🌟 Highlights
+
+- 🐍 Proficient in Python development with a focus on web applications and data processing
+- 🌐 Full-stack capabilities, comfortable working across the entire development stack
+- 🚀 Experience with modern web technologies and frameworks
+- 🛠️ Strong problem-solving skills and attention to detail
+- 📊 Passionate about clean code, best practices, and continuous learning
+
+### 🔭 Projects
+
+I'm constantly working on exciting projects to expand my skills and create meaningful applications. Check out my portfolio to see what I've been up to:
+
+🔗 [My Project Portfolio](https://dimipash.streamlit.app/)
+
+
+### 🌱 Currently Learning
+
+I'm always eager to expand my knowledge. Currently, I'm focusing on:
+- Advanced Django techniques for high-performance web applications
+- LLMs
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- 📧 Email: dim.pashev@gmail.com
+- 💼 LinkedIn: [Dimitar Pashev](https://linkedin.com/in/dimitar-pashev-994174274)
+- 📸 Instagram: [@thepashi](https://instagram.com/thepashi)
+- 👥 Facebook: [Dimitar Pashev](https://fb.com/pashinator)
+
+
